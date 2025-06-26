@@ -17,7 +17,7 @@ O site exibe:
    ```bash
    git clone https://github.com/seu-usuario/ana-bela-site.git
 
-🤝 Contribuindo
+## 🤝 Contribuindo
 1.Faça um fork do repositório
 2.Crie uma nova branch:
 3.Faça suas alterações e commit:
